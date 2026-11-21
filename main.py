@@ -2,11 +2,12 @@
 """Deliver the rebuilt 21 November 2026 front page to the grader.
 
 Entry 3 for competition news-image-20261121 is a rebuilt broadsheet
-of Saturday 21 November 2026: the same day's stories as entries 1-2
-(three heroes, ten mediums, 21 briefs across seven regions), redrawn
-so the masthead, numbers and story labels stay legible at small
-sizes, and with the briefs the dev judge read as implausible left
-out. The page was rendered from HTML with a headless browser; the
+of Saturday 21 November 2026: three heroes, ten mediums and 22
+briefs across seven regions, redrawn so the masthead, numbers and
+story labels stay legible at small sizes, with the story set
+re-checked against the day's wire reports (hard figures, named
+sources) and Friday's stories named and left out in a date check.
+The page was rendered from HTML with a headless browser; the
 picture beside this file is that finished render, 1024 by 1024.
 
 The sandbox installs nothing, so this program uses only the
